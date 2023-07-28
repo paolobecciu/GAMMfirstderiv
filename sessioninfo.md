@@ -1,6 +1,6 @@
 # Session Info
 
-SessionInfo of the example script "Becciu-et-al-2023_Mov-Ecol_first_deriv_GAMM.R" reported with R package "report":
+SessionInfo of the example script ```Becciu-et-al-2023_Mov-Ecol_first_deriv_GAMM.R``` reported with ```R``` package ```report```:
 
 ```{r}
 install.packages("report")
